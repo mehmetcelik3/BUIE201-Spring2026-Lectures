@@ -11,7 +11,7 @@
 
 **Instructor:** A. Tamer Ünal (unaltam@bogazici.edu.tr)
 
-**TA:** Ayşe Sevde Edizer (ayse.edizer@bogazici.edu.tr)
+**TA:** Ayşe Sevde Edizer (ayse.edizer@std.bogazici.edu.tr)
 
 **Prerequisite(s):** 	CMPE 150 (Introduction to Programming) or equivalent. 
 
